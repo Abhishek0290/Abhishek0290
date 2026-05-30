@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="assets/aboutme.jpg" width="220" alt="Abhishek Dwivedi" />
+  <img src="assets/banner.png" alt="Abhishek Dwivedi Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Abhishek Dwivedi</h1>
 
 <h3 align="center">
-Full Stack Developer • React • Next.js • Node.js • TypeScript
+Full Stack Developer | React • Next.js • Node.js • TypeScript
 </h3>
 
 <p align="center">
@@ -13,54 +13,56 @@ Building scalable web applications and solving real-world problems through techn
 </p>
 
 <p align="center">
-  <a href="https://abhishekdwivedi-portfolio.vercel.app">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/abhishekdwivedi29/">LinkedIn</a>
+  <a href="https://abhishekdwivedi-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/abhishekdwivedi29/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=Abhishek0290&style=for-the-badge" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 Pursuing B.Tech in Computer Science & Engineering
-
-💻 Full Stack Developer passionate about modern web technologies
-
-🌱 Currently learning System Design, Scalable Architectures and Advanced DSA
-
-⚡ Love transforming ideas into real-world digital products
-
-🎯 Seeking Software Development, Full Stack and Internship opportunities
+* 🎓 B.Tech Computer Science & Engineering
+* 💻 Full Stack Developer
+* 🌱 Learning System Design & Scalable Architectures
+* ⚡ Building real-world web applications
+* 🎯 Open to Full Stack & Software Development opportunities
 
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend
+<p align="center">
 
-* React.js
-* Next.js
-* TypeScript
-* JavaScript
-* HTML5
-* CSS3
-* Tailwind CSS
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,html,css,tailwind,git,github,vscode,figma,vercel" />
 
-### Backend
+</p>
 
-* Node.js
-* Express.js
+---
 
-### Database
+## 📊 GitHub Stats
 
-* MongoDB
+<p align="center">
 
-### Tools
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhishek0290&show_icons=true&theme=github_dark" />
 
-* Git
-* GitHub
-* VS Code
-* Figma
-* Vercel
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek0290&layout=compact&theme=github_dark" />
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Abhishek0290&theme=github-dark-blue" />
+</p>
 
 ---
 
@@ -68,31 +70,20 @@ Building scalable web applications and solving real-world problems through techn
 
 ### 🚍 TransitPulse
 
-AI-powered public transportation platform featuring:
+AI-powered public transport platform featuring:
 
-* Live vehicle tracking
-* ETA prediction
-* Crowd analytics
-* Smart mobility insights
-* Sustainability-focused dashboards
+* Live Tracking
+* ETA Prediction
+* Crowd Analytics
+* Sustainability Insights
 
 ### 🤝 HelpingHands
 
-Community-driven donation platform designed to:
-
-* Connect donors with meaningful causes
-* Simplify contributions
-* Improve accessibility
-* Encourage community participation
+Community-driven donation platform focused on meaningful social impact.
 
 ### 🌐 Portfolio Website
 
-Modern developer portfolio built using Next.js and Tailwind CSS showcasing:
-
-* Projects
-* Technical skills
-* Experience
-* Contact information
+Modern developer portfolio showcasing projects, skills and experience.
 
 ---
 
@@ -101,7 +92,7 @@ Modern developer portfolio built using Next.js and Tailwind CSS showcasing:
 * Advanced React & Next.js
 * Backend Development
 * System Design
-* Data Structures & Algorithms
+* DSA
 * Scalable Full Stack Applications
 
 ---
@@ -119,9 +110,10 @@ https://www.linkedin.com/in/abhishekdwivedi29/
 
 ---
 
-### 💡 Philosophy
+### 💡 Developer Philosophy
 
 > Great software is not just about writing code.
+>
 > It's about solving meaningful problems and creating impact through technology.
 
-🚀 Always learning. Always building.
+🚀 Always Learning • Always Building
