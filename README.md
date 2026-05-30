@@ -10,11 +10,15 @@
 
 <p align="center">
   <a href="https://abhishekdwivedi-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge" />
   </a>
 
   <a href="https://www.linkedin.com/in/abhishekdwivedi29/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="mailto:abhishekdwi455@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 
   <img src="https://komarev.com/ghpvc/?username=Abhishek0290&style=for-the-badge&color=blue" />
@@ -43,9 +47,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhishek0290&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhishek0290&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek0290&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek0290&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -53,7 +57,15 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhishek0290&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Abhishek0290&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhishek0290&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -62,20 +74,28 @@
 
 ### 🚍 TransitPulse
 
-AI-powered public transport platform featuring:
+AI-powered public transport platform featuring live tracking, ETA prediction, crowd analytics and sustainability insights.
 
-* Live Tracking
-* ETA Prediction
-* Crowd Analytics
-* Sustainability Insights
+🔗 Repository: https://github.com/Abhishek0290/TransitPulse
+🎨 Figma Prototype: https://www.figma.com/make/sYR9gYmEvP47gIAEw2Xm0c/TransitPulse-Mobile-App-Prototype?p=f&t=QYB1SaWfU4UAS4GD-0
+
+---
 
 ### 🤝 HelpingHands
 
 Community-driven donation platform focused on accessibility and meaningful social impact.
 
+🔗 Repository: https://github.com/Abhishek0290/helping-hands-donation
+🌐 Live Demo: https://helping-hands-donation.pages.dev
+
+---
+
 ### 🌐 Portfolio Website
 
 Modern developer portfolio built using Next.js, TypeScript and Tailwind CSS.
+
+🔗 Repository: https://github.com/Abhishek0290/my-portfolio
+🌐 Live Demo: https://abhishekdwivedi-portfolio.vercel.app
 
 ---
 
@@ -108,4 +128,8 @@ https://www.linkedin.com/in/abhishekdwivedi29/
 >
 > It's about solving meaningful problems and creating impact through technology.
 
-🚀 Always Learning • Always Building
+---
+
+<p align="center">
+  <b>🚀 Always Learning • Always Building 🚀</b>
+</p>
