@@ -1,5 +1,9 @@
 # Hi, I'm Abhishek Dwivedi 👋
 
+<p align="center">
+  <img src="assets/aboutme.jpg" alt="Abhishek Dwivedi" width="220" />
+</p>
+
 ### Full Stack Developer
 
 React • Next.js • Node.js • TypeScript
